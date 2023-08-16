@@ -1,0 +1,299 @@
+ConfigId,Player,A,B
+02,Red,Denver,Kansas City
+02,Red,Kansas City,Omaha
+02,Red,Denver,Santa Fe
+02,Red,El Paso,Santa Fe
+02,Red,Chicago,Omaha
+03,Blue,Calgary,Seattle
+03,Blue,Portland,Seattle
+03,Blue,Portland,San Francisco
+03,Blue,Salt Lake City,San Francisco
+03,Blue,Denver,Salt Lake City
+03,Blue,Denver,Kansas City
+03,Red,Denver,Kansas City
+03,Red,Kansas City,Omaha
+03,Red,Denver,Santa Fe
+03,Red,El Paso,Santa Fe
+03,Red,Chicago,Omaha
+04,Blue,Calgary,Seattle
+04,Blue,Portland,Seattle
+04,Blue,Portland,San Francisco
+04,Blue,Salt Lake City,San Francisco
+04,Blue,Denver,Salt Lake City
+04,Blue,Denver,Kansas City
+04,Red,Denver,Kansas City
+04,Red,Kansas City,Omaha
+04,Red,Denver,Santa Fe
+04,Red,El Paso,Santa Fe
+04,Red,Chicago,Omaha
+04,Yellow,Calgary,Vancouver
+04,Yellow,Calgary,Winnipeg
+04,Yellow,Sault St. Marie,Winnipeg
+04,Yellow,Sault St. Marie,Toronto
+04,Yellow,Montreal,Toronto
+04,Yellow,Boston,Montreal
+05,Blue,Calgary,Seattle
+05,Blue,Portland,Seattle
+05,Blue,Portland,San Francisco
+05,Blue,Salt Lake City,San Francisco
+05,Blue,Denver,Salt Lake City
+05,Blue,Denver,Kansas City
+05,Green,Portland,San Francisco
+05,Green,Los Angeles,San Francisco
+05,Green,El Paso,Los Angeles
+05,Green,Dallas,El Paso
+05,Green,Dallas,Houston
+05,Green,Houston,New Orleans
+05,Green,Miami,New Orleans
+05,Red,Denver,Kansas City
+05,Red,Kansas City,Omaha
+05,Red,Denver,Santa Fe
+05,Red,El Paso,Santa Fe
+05,Red,Chicago,Omaha
+05,Yellow,Calgary,Vancouver
+05,Yellow,Calgary,Winnipeg
+05,Yellow,Sault St. Marie,Winnipeg
+05,Yellow,Sault St. Marie,Toronto
+05,Yellow,Montreal,Toronto
+05,Yellow,Boston,Montreal
+06,Black,Kansas City,Saint Louis
+06,Black,Little Rock,Saint Louis
+06,Black,Dallas,Little Rock
+06,Black,Nashville,Saint Louis
+06,Black,Nashville,Raleigh
+06,Black,Raleigh,Washington
+06,Black,New York,Washington
+06,Black,New York,Pittsburgh
+06,Black,Pittsburgh,Toronto
+06,Blue,Calgary,Seattle
+06,Blue,Portland,Seattle
+06,Blue,Portland,San Francisco
+06,Blue,Salt Lake City,San Francisco
+06,Blue,Denver,Salt Lake City
+06,Blue,Denver,Kansas City
+06,Green,Portland,San Francisco
+06,Green,Los Angeles,San Francisco
+06,Green,El Paso,Los Angeles
+06,Green,Dallas,El Paso
+06,Green,Dallas,Houston
+06,Green,Houston,New Orleans
+06,Green,Miami,New Orleans
+06,Red,Denver,Kansas City
+06,Red,Kansas City,Omaha
+06,Red,Denver,Santa Fe
+06,Red,El Paso,Santa Fe
+06,Red,Chicago,Omaha
+06,Yellow,Calgary,Vancouver
+06,Yellow,Calgary,Winnipeg
+06,Yellow,Sault St. Marie,Winnipeg
+06,Yellow,Sault St. Marie,Toronto
+06,Yellow,Montreal,Toronto
+06,Yellow,Boston,Montreal
+07,Black,Kansas City,Saint Louis
+07,Black,Little Rock,Saint Louis
+07,Black,Dallas,Little Rock
+07,Black,Nashville,Saint Louis
+07,Black,Nashville,Raleigh
+07,Black,Raleigh,Washington
+07,Black,New York,Washington
+07,Black,New York,Pittsburgh
+07,Black,Pittsburgh,Toronto
+07,Blue,Calgary,Seattle
+07,Blue,Portland,Seattle
+07,Blue,Portland,San Francisco
+07,Blue,Salt Lake City,San Francisco
+07,Blue,Denver,Salt Lake City
+07,Blue,Denver,Kansas City
+07,Blue,Duluth,Winnipeg
+07,Blue,Duluth,Sault St. Marie
+07,Green,Portland,San Francisco
+07,Green,Los Angeles,San Francisco
+07,Green,El Paso,Los Angeles
+07,Green,Dallas,El Paso
+07,Green,Dallas,Oklahoma City
+07,Green,Kansas City,Oklahoma City
+07,Green,Dallas,Houston
+07,Green,Houston,New Orleans
+07,Green,Miami,New Orleans
+07,Green,Charleston,Miami
+07,Green,Charleston,Raleigh
+07,Green,Pittsburgh,Raleigh
+07,Red,El Paso,Phoenix
+07,Red,El Paso,Santa Fe
+07,Red,Denver,Santa Fe
+07,Red,Denver,Kansas City
+07,Red,Kansas City,Omaha
+07,Red,Chicago,Omaha
+07,Red,Chicago,Pittsburgh
+07,Red,New York,Pittsburgh
+07,Yellow,Calgary,Vancouver
+07,Yellow,Calgary,Winnipeg
+07,Yellow,Sault St. Marie,Winnipeg
+07,Yellow,Sault St. Marie,Toronto
+07,Yellow,Montreal,Toronto
+07,Yellow,Boston,Montreal
+08,Black,Kansas City,Saint Louis
+08,Black,Little Rock,Saint Louis
+08,Black,Dallas,Little Rock
+08,Black,Nashville,Saint Louis
+08,Black,Nashville,Raleigh
+08,Black,Raleigh,Washington
+08,Black,New York,Washington
+08,Black,New York,Pittsburgh
+08,Black,Pittsburgh,Toronto
+08,Black,Las Vegas,Salt Lake City
+08,Black,Las Vegas,Los Angeles
+08,Black,Los Angeles,Phoenix
+08,Black,Phoenix,Santa Fe
+08,Blue,Calgary,Seattle
+08,Blue,Portland,Seattle
+08,Blue,Portland,San Francisco
+08,Blue,Salt Lake City,San Francisco
+08,Blue,Denver,Salt Lake City
+08,Blue,Denver,Kansas City
+08,Blue,Duluth,Winnipeg
+08,Blue,Duluth,Sault St. Marie
+08,Green,Portland,San Francisco
+08,Green,Los Angeles,San Francisco
+08,Green,El Paso,Los Angeles
+08,Green,Denver,Omaha
+08,Green,Duluth,Omaha
+08,Green,Kansas City,Omaha
+08,Green,Kansas City,Oklahoma City
+08,Green,Dallas,Oklahoma City
+08,Green,Dallas,Houston
+08,Green,Houston,New Orleans
+08,Green,Miami,New Orleans
+08,Green,Charleston,Miami
+08,Green,Charleston,Raleigh
+08,Green,Pittsburgh,Raleigh
+08,Red,Helena,Salt Lake City
+08,Red,Denver,Salt Lake City
+08,Red,Denver,Santa Fe
+08,Red,El Paso,Phoenix
+08,Red,El Paso,Santa Fe
+08,Red,Denver,Kansas City
+08,Red,Kansas City,Omaha
+08,Red,Chicago,Omaha
+08,Red,Chicago,Pittsburgh
+08,Red,New York,Pittsburgh
+08,Yellow,Calgary,Vancouver
+08,Yellow,Calgary,Winnipeg
+08,Yellow,Sault St. Marie,Winnipeg
+08,Yellow,Sault St. Marie,Toronto
+08,Yellow,Montreal,Toronto
+08,Yellow,Chicago,Toronto
+08,Yellow,Boston,Montreal
+08,Yellow,Chicago,Saint Louis
+08,Yellow,Kansas City,Saint Louis
+08,Yellow,Kansas City,Oklahoma City
+09,Black,Los Angeles,Phoenix
+09,Black,Denver,Phoenix
+09,Black,Denver,Oklahoma City
+09,Black,Kansas City,Saint Louis
+09,Black,Nashville,Saint Louis
+09,Black,Nashville,Raleigh
+09,Black,Raleigh,Washington
+09,Black,New York,Washington
+09,Black,New York,Pittsburgh
+09,Black,Pittsburgh,Toronto
+09,Black,Chicago,Pittsburgh
+09,Blue,Calgary,Seattle
+09,Blue,Portland,Seattle
+09,Blue,Portland,San Francisco
+09,Blue,Salt Lake City,San Francisco
+09,Blue,Denver,Salt Lake City
+09,Blue,Denver,Helena
+09,Blue,Denver,Kansas City
+09,Blue,Duluth,Winnipeg
+09,Blue,Duluth,Sault St. Marie
+09,Green,Calgary,Vancouver
+09,Green,Seattle,Vancouver
+09,Green,Portland,Seattle
+09,Green,Portland,San Francisco
+09,Green,Los Angeles,San Francisco
+09,Green,El Paso,Los Angeles
+09,Green,Dallas,El Paso
+09,Green,Dallas,Oklahoma City
+09,Green,Little Rock,Oklahoma City
+09,Green,Little Rock,New Orleans
+09,Green,Miami,New Orleans
+09,Green,Charleston,Miami
+09,Green,Charleston,Raleigh
+09,Red,Calagary,Helena
+09,Red,Helena,Salt Lake City
+09,Red,Denver,Salt Lake City
+09,Red,Denver,Santa Fe
+09,Red,El Paso,Phoenix
+09,Red,El Paso,Santa Fe
+09,Red,Denver,Kansas City
+09,Red,Kansas City,Omaha
+09,Red,Chicago,Omaha
+09,Red,Chicago,Pittsburgh
+09,Red,New York,Pittsburgh
+09,Yellow,Calgary,Winnipeg
+09,Yellow,Sault St. Marie,Winnipeg
+09,Yellow,Sault St. Marie,Toronto
+09,Yellow,Montreal,Toronto
+09,Yellow,Boston,Montreal
+09,Yellow,Chicago,Toronto
+09,Yellow,Chicago,Saint Louis
+09,Yellow,Kansas City,Saint Louis
+09,Yellow,Kansas City,Oklahoma City
+09,Yellow,Oklahoma City,Santa Fe
+10,Black,Los Angeles,Phoenix
+10,Black,Denver,Phoenix
+10,Black,Denver,Oklahoma City
+10,Black,Kansas City,Saint Louis
+10,Black,Nashville,Saint Louis
+10,Black,Nashville,Raleigh
+10,Black,Raleigh,Washington
+10,Black,New York,Washington
+10,Black,New York,Pittsburgh
+10,Black,Chicago,Pittsburgh
+10,Black,Pittsburgh,Toronto
+10,Blue,Calgary,Seattle
+10,Blue,Portland,Seattle
+10,Blue,Portland,San Francisco
+10,Blue,Salt Lake City,San Francisco
+10,Blue,Denver,Salt Lake City
+10,Blue,Denver,Helena
+10,Blue,Denver,Kansas City
+10,Blue,Duluth,Winnipeg
+10,Blue,Duluth,Sault St. Marie
+10,Green,Calgary,Vancouver
+10,Green,Seattle,Vancouver
+10,Green,Portland,Seattle
+10,Green,Portland,San Francisco
+10,Green,Los Angeles,San Francisco
+10,Green,El Paso,Los Angeles
+10,Green,Dallas,El Paso
+10,Green,Dallas,Oklahoma City
+10,Green,Little Rock,Oklahoma City
+10,Green,Little Rock,New Orleans
+10,Green,Miami,New Orleans
+10,Green,Charleston,Miami
+10,Green,Charleston,Raleigh
+10,Red,Calagary,Helena
+10,Red,Helena,Salt Lake City
+10,Red,Denver,Salt Lake City
+10,Red,Denver,Santa Fe
+10,Red,El Paso,Santa Fe
+10,Red,El Paso,Phoenix
+10,Red,Denver,Kansas City
+10,Red,Kansas City,Omaha
+10,Red,Chicago,Omaha
+10,Red,Chicago,Pittsburgh
+10,Red,New York,Pittsburgh
+10,Yellow,Calgary,Winnipeg
+10,Yellow,Sault St. Marie,Winnipeg
+10,Yellow,Sault St. Marie,Toronto
+10,Yellow,Montreal,Toronto
+10,Yellow,Chicago,Toronto
+10,Yellow,Boston,Montreal
+10,Yellow,Boston,New York
+10,Yellow,New York,Washington
+10,Yellow,Raleigh,Washington
+10,Yellow,Atlanta,Raleigh
+10,Yellow,Atlanta,New Orleans
+10,Yellow,Kansas City,Oklahoma City

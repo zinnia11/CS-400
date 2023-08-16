@@ -1,0 +1,674 @@
+[
+ {
+   "Color": "Black",
+   "City A": "Los Angeles",
+   "City B": "Phoenix",
+   "Weight": 3
+ },
+ {
+   "Color": "Black",
+   "City A": "Denver",
+   "City B": "Phoenix",
+   "Weight": 5
+ },
+ {
+   "Color": "Black",
+   "City A": "Denver",
+   "City B": "Oklahoma City",
+   "Weight": 4
+ },
+ {
+   "Color": "Black",
+   "City A": "Kansas City",
+   "City B": "Saint Louis",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Nashville",
+   "City B": "Saint Louis",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Nashville",
+   "City B": "Raleigh",
+   "Weight": 3
+ },
+ {
+   "Color": "Black",
+   "City A": "Raleigh",
+   "City B": "Washington",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "New York",
+   "City B": "Washington",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "New York",
+   "City B": "Pittsburgh",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Chicago",
+   "City B": "Pittsburgh",
+   "Weight": 3
+ },
+ {
+   "Color": "Black",
+   "City A": "Pittsburgh",
+   "City B": "Toronto",
+   "Weight": 2
+ },
+ {
+   "Color": "Blue",
+   "City A": "Calgary",
+   "City B": "Seattle",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Portland",
+   "City B": "Seattle",
+   "Weight": 1
+ },
+ {
+   "Color": "Blue",
+   "City A": "Portland",
+   "City B": "San Francisco",
+   "Weight": 5
+ },
+ {
+   "Color": "Blue",
+   "City A": "Salt Lake City",
+   "City B": "San Francisco",
+   "Weight": 5
+ },
+ {
+   "Color": "Blue",
+   "City A": "Denver",
+   "City B": "Salt Lake City",
+   "Weight": 3
+ },
+ {
+   "Color": "Blue",
+   "City A": "Denver",
+   "City B": "Helena",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Denver",
+   "City B": "Kansas City",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Duluth",
+   "City B": "Winnipeg",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Duluth",
+   "City B": "Sault St. Marie",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "Calgary",
+   "City B": "Vancouver",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "Seattle",
+   "City B": "Vancouver",
+   "Weight": 1
+ },
+ {
+   "Color": "Green",
+   "City A": "Portland",
+   "City B": "Seattle",
+   "Weight": 1
+ },
+ {
+   "Color": "Green",
+   "City A": "Portland",
+   "City B": "San Francisco",
+   "Weight": 5
+ },
+ {
+   "Color": "Green",
+   "City A": "Los Angeles",
+   "City B": "San Francisco",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "El Paso",
+   "City B": "Los Angeles",
+   "Weight": 6
+ },
+ {
+   "Color": "Green",
+   "City A": "Dallas",
+   "City B": "El Paso",
+   "Weight": 4
+ },
+ {
+   "Color": "Green",
+   "City A": "Dallas",
+   "City B": "Oklahoma City",
+   "Weight": 2
+ },
+ {
+   "Color": "Green",
+   "City A": "Little Rock",
+   "City B": "Oklahoma City",
+   "Weight": 2
+ },
+ {
+   "Color": "Green",
+   "City A": "Little Rock",
+   "City B": "New Orleans",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "Miami",
+   "City B": "New Orleans",
+   "Weight": 6
+ },
+ {
+   "Color": "Green",
+   "City A": "Charleston",
+   "City B": "Miami",
+   "Weight": 4
+ },
+ {
+   "Color": "Green",
+   "City A": "Charleston",
+   "City B": "Raleigh",
+   "Weight": 2
+ },
+ {
+   "Color": "Red",
+   "City A": "Calgary",
+   "City B": "Helena",
+   "Weight": 4
+ },
+ {
+   "Color": "Red",
+   "City A": "Helena",
+   "City B": "Salt Lake City",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Denver",
+   "City B": "Salt Lake City",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Denver",
+   "City B": "Santa Fe",
+   "Weight": 2
+ },
+ {
+   "Color": "Red",
+   "City A": "El Paso",
+   "City B": "Santa Fe",
+   "Weight": 2
+ },
+ {
+   "Color": "Red",
+   "City A": "El Paso",
+   "City B": "Phoenix",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Denver",
+   "City B": "Kansas City",
+   "Weight": 4
+ },
+ {
+   "Color": "Red",
+   "City A": "Kansas City",
+   "City B": "Omaha",
+   "Weight": 1
+ },
+ {
+   "Color": "Red",
+   "City A": "Chicago",
+   "City B": "Omaha",
+   "Weight": 4
+ },
+ {
+   "Color": "Red",
+   "City A": "Chicago",
+   "City B": "Pittsburgh",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "New York",
+   "City B": "Pittsburgh",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Calgary",
+   "City B": "Winnipeg",
+   "Weight": 6
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Sault St. Marie",
+   "City B": "Winnipeg",
+   "Weight": 6
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Sault St. Marie",
+   "City B": "Toronto",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Montreal",
+   "City B": "Toronto",
+   "Weight": 3
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Chicago",
+   "City B": "Toronto",
+   "Weight": 4
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Boston",
+   "City B": "Montreal",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Boston",
+   "City B": "New York",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "New York",
+   "City B": "Washington",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Raleigh",
+   "City B": "Washington",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Atlanta",
+   "City B": "Raleigh",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Atlanta",
+   "City B": "New Orleans",
+   "Weight": 4
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Kansas City",
+   "City B": "Oklahoma City",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Phoenix",
+   "City B": "Los Angeles",
+   "Weight": 3
+ },
+ {
+   "Color": "Black",
+   "City A": "Phoenix",
+   "City B": "Denver",
+   "Weight": 5
+ },
+ {
+   "Color": "Black",
+   "City A": "Oklahoma City",
+   "City B": "Denver",
+   "Weight": 4
+ },
+ {
+   "Color": "Black",
+   "City A": "Saint Louis",
+   "City B": "Kansas City",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Saint Louis",
+   "City B": "Nashville",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Raleigh",
+   "City B": "Nashville",
+   "Weight": 3
+ },
+ {
+   "Color": "Black",
+   "City A": "Washington",
+   "City B": "Raleigh",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Washington",
+   "City B": "New York",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Pittsburgh",
+   "City B": "New York",
+   "Weight": 2
+ },
+ {
+   "Color": "Black",
+   "City A": "Pittsburgh",
+   "City B": "Chicago",
+   "Weight": 3
+ },
+ {
+   "Color": "Black",
+   "City A": "Toronto",
+   "City B": "Pittsburgh",
+   "Weight": 2
+ },
+ {
+   "Color": "Blue",
+   "City A": "Seattle",
+   "City B": "Calgary",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Seattle",
+   "City B": "Portland",
+   "Weight": 1
+ },
+ {
+   "Color": "Blue",
+   "City A": "San Francisco",
+   "City B": "Portland",
+   "Weight": 5
+ },
+ {
+   "Color": "Blue",
+   "City A": "San Francisco",
+   "City B": "Salt Lake City",
+   "Weight": 5
+ },
+ {
+   "Color": "Blue",
+   "City A": "Salt Lake City",
+   "City B": "Denver",
+   "Weight": 3
+ },
+ {
+   "Color": "Blue",
+   "City A": "Helena",
+   "City B": "Denver",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Kansas City",
+   "City B": "Denver",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Winnipeg",
+   "City B": "Duluth",
+   "Weight": 4
+ },
+ {
+   "Color": "Blue",
+   "City A": "Sault St. Marie",
+   "City B": "Duluth",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "Vancouver",
+   "City B": "Calgary",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "Vancouver",
+   "City B": "Seattle",
+   "Weight": 1
+ },
+ {
+   "Color": "Green",
+   "City A": "Seattle",
+   "City B": "Portland",
+   "Weight": 1
+ },
+ {
+   "Color": "Green",
+   "City A": "San Francisco",
+   "City B": "Portland",
+   "Weight": 5
+ },
+ {
+   "Color": "Green",
+   "City A": "San Francisco",
+   "City B": "Los Angeles",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "Los Angeles",
+   "City B": "El Paso",
+   "Weight": 6
+ },
+ {
+   "Color": "Green",
+   "City A": "El Paso",
+   "City B": "Dallas",
+   "Weight": 4
+ },
+ {
+   "Color": "Green",
+   "City A": "Oklahoma City",
+   "City B": "Dallas",
+   "Weight": 2
+ },
+ {
+   "Color": "Green",
+   "City A": "Oklahoma City",
+   "City B": "Little Rock",
+   "Weight": 2
+ },
+ {
+   "Color": "Green",
+   "City A": "New Orleans",
+   "City B": "Little Rock",
+   "Weight": 3
+ },
+ {
+   "Color": "Green",
+   "City A": "New Orleans",
+   "City B": "Miami",
+   "Weight": 6
+ },
+ {
+   "Color": "Green",
+   "City A": "Miami",
+   "City B": "Charleston",
+   "Weight": 4
+ },
+ {
+   "Color": "Green",
+   "City A": "Raleigh",
+   "City B": "Charleston",
+   "Weight": 2
+ },
+ {
+   "Color": "Red",
+   "City A": "Helena",
+   "City B": "Calgary",
+   "Weight": 4
+ },
+ {
+   "Color": "Red",
+   "City A": "Salt Lake City",
+   "City B": "Helena",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Salt Lake City",
+   "City B": "Denver",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Santa Fe",
+   "City B": "Denver",
+   "Weight": 2
+ },
+ {
+   "Color": "Red",
+   "City A": "Santa Fe",
+   "City B": "El Paso",
+   "Weight": 2
+ },
+ {
+   "Color": "Red",
+   "City A": "Phoenix",
+   "City B": "El Paso",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Kansas City",
+   "City B": "Denver",
+   "Weight": 4
+ },
+ {
+   "Color": "Red",
+   "City A": "Omaha",
+   "City B": "Kansas City",
+   "Weight": 1
+ },
+ {
+   "Color": "Red",
+   "City A": "Omaha",
+   "City B": "Chicago",
+   "Weight": 4
+ },
+ {
+   "Color": "Red",
+   "City A": "Pittsburgh",
+   "City B": "Chicago",
+   "Weight": 3
+ },
+ {
+   "Color": "Red",
+   "City A": "Pittsburgh",
+   "City B": "New York",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Winnipeg",
+   "City B": "Calgary",
+   "Weight": 6
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Winnipeg",
+   "City B": "Sault St. Marie",
+   "Weight": 6
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Toronto",
+   "City B": "Sault St. Marie",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Toronto",
+   "City B": "Montreal",
+   "Weight": 3
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Toronto",
+   "City B": "Chicago",
+   "Weight": 4
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Montreal",
+   "City B": "Boston",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "New York",
+   "City B": "Boston",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Washington",
+   "City B": "New York",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Washington",
+   "City B": "Raleigh",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Raleigh",
+   "City B": "Atlanta",
+   "Weight": 2
+ },
+ {
+   "Color": "Yellow",
+   "City A": "New Orleans",
+   "City B": "Atlanta",
+   "Weight": 4
+ },
+ {
+   "Color": "Yellow",
+   "City A": "Oklahoma City",
+   "City B": "Kansas City",
+   "Weight": 2
+ }
+]
